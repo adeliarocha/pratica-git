@@ -12,3 +12,8 @@ comando git clone repo pratica-git-nome para criar uma pasta sua
 comando cd pratica-git-nome para entrar na pasta
 comando git config user.name "nome" 
 comando git config user.email "email"
+para cada membro do grupo, repetir os itens 8 a 14 criando pastas com o nome de cada um
+comando git add "nome do arquivo que você queira adicionar"
+comando git commit -m "mensagem de alteração" (para cada arquivo adicionado)
+comando git status (verifica o que foi feito anteriormente)
+
