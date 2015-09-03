@@ -16,4 +16,5 @@ para cada membro do grupo, repetir os itens 8 a 14 criando pastas com o nome de 
 comando git add "nome do arquivo que você queira adicionar"
 comando git commit -m "mensagem de alteração" (para cada arquivo adicionado)
 comando git status (verifica o que foi feito anteriormente)
-
+comando git log para ver todos os commit
+comando git push origin master
