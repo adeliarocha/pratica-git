@@ -1,0 +1,6 @@
+comando pwd (enter) nos diz em que pasta estamos
+comando ls (enter) nos diz o que esta na pasta
+comando cd "nome da pasta" (enter) para ir para outra pasta
+comando cd .. (enter) para voltar a primeira pasta acessada
+comando mkdir "nome da pasta" (enter) para criar uma nova pagina
+comando cat "nome do arquivo" (enter) para ler o conteudo do arquivo localizado na pasta
