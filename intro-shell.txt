@@ -4,3 +4,17 @@ comando cd "nome da pasta" (enter) para ir para outra pasta
 comando cd .. (enter) para voltar a primeira pasta acessada
 comando mkdir "nome da pasta" (enter) para criar uma nova pagina
 comando cat "nome do arquivo" (enter) para ler o conteudo do arquivo localizado na pasta
+comando mkdir repo (enter) para criar o repositório
+comando cd repo (enter) para abrir a pasta repo
+comando git init --bare (enter) para inicializar o repositório
+comando cd .. para voltar 
+comando git clone repo pratica-git-nome para criar uma pasta sua
+comando cd pratica-git-nome para entrar na pasta
+comando git config user.name "nome" 
+comando git config user.email "email"
+para cada membro do grupo, repetir os itens 8 a 14 criando pastas com o nome de cada um
+comando git add "nome do arquivo que você queira adicionar"
+comando git commit -m "mensagem de alteração" (para cada arquivo adicionado)
+comando git status (verifica o que foi feito anteriormente)
+comando git log para ver todos os commit
+comando git push origin master
