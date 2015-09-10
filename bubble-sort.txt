@@ -1,1 +1,5 @@
-bubble-sort.txt
+Pratica I: 
+1º passo: definir a ordem da sequencia
+2º passo: virar somente uma carta do lado da outra
+3º passo: se a carta da esquerda for menor que a da direita, não se opera troca. Caso contrário opera-se a troca
+4º passo: um determinado momento, após n trocas, não sera mais possivel efetuar trocas. Quando isso ocorrer, para toda combinaçao 2 a 2, as cartas estarao em orde
