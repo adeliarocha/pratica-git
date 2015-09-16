@@ -1,0 +1,12 @@
+quais são as vantagens de utilizar a linha de comando ao invés de uma interface gráfica?
+é mais rápido, prático e se tem uma visão mais ampla e clara da organização das suas pastas.
+quais as desvantagens?
+não é possivel visualizar imagens.
+quais são os problemas que sistemas de controle de versão tentam solucionar?
+tentam corrigir enventuais esquecimentos ou enganos feitos por quem os utiliza, você controla seu trabalho por meio dele e ele te lembra aquilo que você o orientou a não esquecer, como um bilhete na geladeira.
+qual é a estratégia do git para fazer isso?
+tem a ferramenta em que você deixa um commit, que é um comentário de algo importante, que foi feito em um arquivo.
+quais são as vantagens de utilizar um sistema de controle de verssão para realizar um trabalho (escolar, de pesquisa, para trabalho)?
+trabalhos em grupo, permite que sejam realizados a distância e um trabalho individual permite que você marque ideias e mudanças importantes necessarios.
+quais foram as maiores dificuldades que vocês encontraram?
+o passo a passo, em que se você esquece de fazer uma parte, sempre salvar, dar um push ou um pull coisas ficam para tras, o que você deseja não é realizado.
